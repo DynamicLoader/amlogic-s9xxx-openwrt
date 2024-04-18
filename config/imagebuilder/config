@@ -527,5 +527,3 @@ CONFIG_BUSYBOX_DEFAULT_FALLOCATE=y
 
 CONFIG_PACKAGE_luci-app-softether=y
 CONFIG_PACKAGE_luci-proto-wireguard=y
-CONFIG_PACKAGE_softethervpn-base=y
-CONFIG_PACKAGE_softethervpn-server=y
